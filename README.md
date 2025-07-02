@@ -23,6 +23,11 @@ Bu proje, kullanıcıların e-posta ve şifre ile giriş yaparak Supabase verita
 - Başarılı işlemlerde toast bildirimleri gösterilir.
 
 ## Ekran Görüntüleri
+![Dashboard](screenshots/dashboard.png)
+![Tüm ürünler](screenshots/tüm-ürünler.png)
+![Yeni ürün ekle](screenshots/yeni-ürün-ekle.png)
+
+
 
 
 ## Kullanım ve Notlar
