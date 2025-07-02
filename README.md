@@ -22,14 +22,6 @@ Bu proje, kullanıcıların e-posta ve şifre ile giriş yaparak Supabase verita
 - Ürünler Supabase veritabanına kaydedilir.  
 - Başarılı işlemlerde toast bildirimleri gösterilir.
 
-## Ekran Görüntüleri
-![Dashboard](screenshots/dashboard.png)
-![Tüm ürünler](screenshots/tüm-ürünler.png)
-![Yeni ürün ekle](screenshots/yeni-ürün-ekle.png)
-
-
-
-
 ## Kullanım ve Notlar
 
 - `/register` ve `/login` sayfalarından kullanıcı girişi yapılabilir.  
